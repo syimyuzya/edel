@@ -4,15 +4,15 @@ Fonto de la origina bitigita teksto: https://reto.cn/php/hanyu/vortoj/etimologia
 
 ## Dosieroj
 
-- `eligo/`: La datumoj, en kelkaj formoj
+- `eligo/`: La datumoj traktitaj, en kelkaj formoj, kun korektoj aplikitaj
 - `header-footer.md`: La tekstoj antaŭ kaj post la ĉefa vortlisto, reformigitaj en Markdown
 - `datumoj/origina.txt`: Fonta teksto
 - `trakti.py`: La ĉefa bloko por trakti la datumojn
-- `konverti.py`: Rulebla programo, kiu produktas la datumdosierojn (en `eligo/`-n) en pli facile analizeblaj formoj kun korektoj aplikitaj
+- `konverti.py`: Rulebla programo, kiu produktas la datumdosierojn en `eligo/`-n
 
 ## JSON-formo
 
-Vortoj kun ordinara listo de etimologio:
+Vorto kun ordinara listo de etimologio:
 
 ```
 {
@@ -27,7 +27,7 @@ Vortoj kun ordinara listo de etimologio:
 }
 ```
 
-Vortoj kun apartaj komentoj:
+Vorto kun apartaj komentoj:
 
 ```
 {
