@@ -78,3 +78,8 @@ Uzo de _nominativa plurala_ formo, kvankam tio ja donas la ĝustajn radikformojn
 Pli bone estus uzi la _akuzativa singulara_ formo, kaj uzi la formon de Mezepoka Latino se necese. Ekz. lakto = Lat. lac, (medieval) lactem; radiko = Lat. radicem ktp.
 
 Alia bona elekto eble estus la _genitiva singulara_ formo, kiun multaj vortaroj de Latino uzas por montri deklinaciojn.
+
+## Traktindaĵoj restaj
+
+- La marko "(pl.)" ankoraŭ ne estas apartigita. Ĝi nun restas parto de `"word"`
+- Mankas permesilo (normale en reto.cn tiaj ĉi lernomaterialoj estas libere redisdoneblaj, sed mi ne certas)
